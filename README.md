@@ -20,32 +20,83 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Iluminado - O Cordel
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de cordel onde seja contada a história mais popular de Stephen King
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGP
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Atráves de diversos comandos, refinado as orientações até atingir um resultado esperado tanto para o texto como para a xilogravura
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Claro! Aqui vai uma versão em literatura de cordel para *O Iluminado*, resumindo a história em versos rimados:
+
+---
+
+**O Iluminado em Cordel**
+
+No hotel grande e distante,  
+Onde a neve cai sem fim,  
+Foi morar uma família,  
+Numa história de terror sem fim.  
+
+Jack Torrance, escritor,  
+Com a mente a se perder,  
+Aceitou ser o zelador,  
+Sem saber o que ia ver.  
+
+Com ele foi a esposa,  
+Wendy, cheia de temor,  
+E o pequeno Danny,  
+Com um dom revelador.  
+
+Pois Danny, o iluminado,  
+Tinha a visão no olhar,  
+Via coisas do passado  
+Que ninguém podia enxergar.  
+
+O hotel tinha um segredo,  
+Algo forte, obscuro e vil,  
+Um poder que arrasta a mente  
+Pro abismo mais sutil.  
+
+Jack ouve vozes na noite,  
+Coisas que o hotel quer fazer,  
+E aos poucos vai perdendo  
+Seu jeito de ser, de viver.  
+
+O hotel quer seu sangue,  
+E ele entra no furor,  
+Com machado em sua mão  
+Aos poucos vira um terror.  
+
+Mas Danny com sua luz  
+Lutou pra sobreviver,  
+Mostrou à mãe o caminho  
+Pra conseguir se esconder.  
+
+Num final de luta intensa,  
+No frio do hotel gelado,  
+Danny e Wendy escapam,  
+Deixando o mal derrotado.  
+
+Mas o hotel no horizonte,  
+Em ruínas, cheio de dor,  
+Continua com seu peso  
+De um sinistro pavor.  
+
+---
+
+![image](https://github.com/user-attachments/assets/12746db8-bf72-41cf-8917-d3bd7b86eeeb)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo 'natty' (natural) com IA é um desafio fascinante e cheio de possibilidades. A ideia é usar tecnologias de IA generativa para criar conteúdos que pareçam o mais realista possível, seja em forma de imagens, textos, áudios, vídeos ou uma combinação de tudo isso.
 ```
 
-### Exemplos e Insigths
+#LabDIONattyOrNot
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
